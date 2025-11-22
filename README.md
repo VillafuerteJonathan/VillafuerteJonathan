@@ -3,7 +3,7 @@
 ---
 
 ## 👨‍💻 Sobre Mí
-<img align="right" alt="GIF" width="300" src="https://i.pinimg.com/originals/34/c8/94/34c89435b2d4fdf7eda92070013058d5.gif" />
+<img align="right" alt="GIF" width="260" src="https://i.pinimg.com/originals/34/c8/94/34c89435b2d4fdf7eda92070013058d5.gif" />
 
 Soy **Jonathan Villafuerte**, un Ingeniero de Software **Full Stack** con una actitud súper positiva y orientada a soluciones.
 
