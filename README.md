@@ -49,7 +49,6 @@ Cine — Disfruto de todo tipo de películas: acción, ciencia ficción, comedia
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" title="Postman"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" title="Docker"/>
 </p>
-<img width="512" height="512" alt="image" src="" />
 
 
 ---
