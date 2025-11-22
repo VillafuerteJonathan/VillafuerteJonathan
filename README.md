@@ -3,29 +3,45 @@
 ---
 
 ## 👨‍💻 Sobre Mí
-<img align="right" alt="GIF" width="260" src="https://i.pinimg.com/originals/34/c8/94/34c89435b2d4fdf7eda92070013058d5.gif" />
+
+<table>
+<tr>
+<td>
 
 Soy **Jonathan Villafuerte**, un Ingeniero de Software **Full Stack** con una actitud súper positiva y orientada a soluciones.
 
 * 🤝 Me encanta colaborar, comunicar ideas de forma clara y crear un ambiente donde todos podamos aprender y crecer.
 * 💡 Siempre busco una solución, incluso cuando las cosas se ponen difíciles **porque de todo lo malo siempre sale algo bueno.**
 * ⚙️ Disfruto construir sistemas web que funcionen de verdad: rápidos, sólidos y pensados para ayudar a las personas.
-* 🚀 La tecnología es mi pasión, y estoy siempre en búsqueda de un proximo desafio.
+* 🚀 La tecnología es mi pasión, y estoy siempre en búsqueda de un proximo desafío.
 * 😄 Me considero alguien sociable, curioso y con ganas de dejar una buena impresión donde vaya.
 
 > 📩 **¡Hablemos, creemos y construyamos algo increíble juntos!**
 
+</td>
 
+<td style="padding-left: 20px;">
+  <img 
+    alt="GIF" 
+    width="260" 
+    src="https://i.pinimg.com/originals/34/c8/94/34c89435b2d4fdf7eda92070013058d5.gif"
+  />
+</td>
+
+</tr>
+</table>
 
 ---
 
-⚽🎮🎬 Mis Hobbies
+## ⚽🎮🎬 Mis Hobbies
 
-Fútbol — Me encanta jugar fútbol y también disfrutar buenos partidos, ya sea con panas o en familia.
+**Fútbol** — Me encanta jugar fútbol y también disfrutar buenos partidos, ya sea con panas o en familia.
 
-Videojuegos — Competitivo, cooperativo o casual… mientras haya diversión, yo estoy ahí.
+**Videojuegos** — Competitivo, cooperativo o casual… mientras haya diversión, yo estoy ahí.
 
-Cine — Disfruto de todo tipo de películas: acción, ciencia ficción, comedia, drama… si la historia es buena, me engancho al toque.
+**Cine** — Disfruto de todo tipo de películas: acción, ciencia ficción, comedia, drama… si la historia es buena, me engancho al toque.
+
+---
 
 <h2 align="center">🛠️ Languages y Herramientas</h2>
 
@@ -50,7 +66,6 @@ Cine — Disfruto de todo tipo de películas: acción, ciencia ficción, comedia
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" title="Docker"/>
 </p>
 
-
 ---
 
 <h2 align="center">📬 Contáctame</h2>
@@ -63,4 +78,3 @@ Cine — Disfruto de todo tipo de películas: acción, ciencia ficción, comedia
   <a href="https://tusitio.com" target="_blank"><img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=web&logoColor=white" alt="Portafolio"></a>
 </p>
 
-<br>
